@@ -1,0 +1,7 @@
+# SEO and answer-engine discoverability
+
+Local-only readiness: semantic English copy based on app source; MobileApplication schema and FAQs match visible content; no fictional reviews or ratings; unique page titles/descriptions; all core navigation is available without JavaScript. Support content explicitly answers bus, hints, purchases and cloud questions. llms.txt supplies a concise answer-oriented overview. This is discoverability preparation, not a guarantee of ranking or AI citation.
+
+Public canonical, OG image URLs and absolute sitemap are generated only after a real deployment URL is chosen. The current empty sitemap and absent canonicals intentionally do not assert a live site. Git push does not publish Pages. Before activation, configure the URL, verify privacy disclosures with the released app/SDK settings, confirm contact recipient, activate FormSubmit in the inbox, inspect real delivery, and check robots at the hosting root. Then update ASO web status and App Store support/privacy URLs.
+
+Website is English. App supports six languages; hreflang is not added until equivalent translated site pages exist. Hosting access logs and contact-provider processing are explained in the privacy policy. No third-party font, marketing analytics or ad scripts are loaded by the site itself. Consent checkbox and provider CAPTCHA are required for messages. No message was sent during QA.

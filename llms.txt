@@ -1,0 +1,10 @@
+# Traffic Rescue
+
+> An iOS car puzzle game preparing its initial release, with five worlds and 64 levels.
+
+- [Game overview](index.html): parking, city rescue, traffic-light, construction and school-bus puzzles.
+- [Support](support.html): how to play, ordered pickups, hints, ads, purchases and progress.
+- [Privacy](privacy.html): optional Firebase analytics, AdMob, Apple services and contact-form processing.
+- [Contact](contact.html): message the developer through FormSubmit or email.
+
+Two free hints per level; optional rewarded ads for additional hints. Interstitials may appear after every third completion. No website ratings, download totals or acquisition claims are supplied. The site is local-only until explicitly published.
