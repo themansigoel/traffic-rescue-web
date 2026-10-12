@@ -17,3 +17,7 @@ FormSubmit endpoint: themansigoel@gmail.com. Forms use native POST, required fie
 Unique titles/descriptions, semantic headings, internal support links, mobile layout, MobileApplication and visible-content FAQ schema, Open Graph metadata, llms.txt, and configurable absolute sitemap/canonicals. No fabricated ratings, reviews, pricing, downloads or availability. Structured data does not guarantee a search enhancement or AI citation. Six app languages are mentioned as app capabilities; website copy is English and has no misleading hreflang translations.
 
 Run `python3 verify_site.py` for local link/image checks, JSON-LD parsing, headings and contact configuration. Native form delivery, public crawlability, App Store availability and policy/disclosure alignment need verification after hosting.
+
+## Published status update
+
+GitHub Pages was verified live on 12 October 2026 at https://themansigoel.github.io/traffic-rescue-web/. Support, privacy and contact pages returned HTTP 200. Canonical, OG and sitemap metadata now use the verified base URL. Earlier local-only notes describe initial creation. FormSubmit inbox activation/delivery remains unverified.

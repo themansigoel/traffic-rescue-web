@@ -2,8 +2,9 @@
   "name": "Traffic Rescue",
   "app_id": "6821971704",
   "contact_email": "themansigoel@gmail.com",
-  "status": "local_only",
-  "base_url": null,
+  "status": "live_verified",
+  "base_url": "https://themansigoel.github.io/traffic-rescue-web/",
   "proposed_base_url": "https://themansigoel.github.io/traffic-rescue-web/",
-  "app_store_status": "PREPARE_FOR_SUBMISSION"
+  "app_store_status": "PREPARE_FOR_SUBMISSION",
+  "verified_date": "2026-10-12"
 }
