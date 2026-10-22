@@ -1,10 +1,10 @@
 # Traffic Rescue
 
-> An iOS car puzzle game preparing its initial release, with five worlds and 64 levels.
+Traffic Rescue is an iPhone and iPad car puzzle game by Mansi Agarwal. Version 1.0 is waiting for App Review; downloads are not yet available. Five worlds contain 64 released-version puzzles: Parking Lot, City Rescue, Traffic Lights, Construction City and School Zone.
 
-- [Game overview](index.html): parking, city rescue, traffic-light, construction and school-bus puzzles.
-- [Support](support.html): how to play, ordered pickups, hints, ads, purchases and progress.
-- [Privacy](privacy.html): optional Firebase analytics, AdMob, Apple services and contact-form processing.
-- [Contact](contact.html): message the developer through FormSubmit or email.
+- [Official website](https://themansigoel.github.io/traffic-rescue-web/)
+- [Gameplay, hints, Pro and iCloud support](https://themansigoel.github.io/traffic-rescue-web/support.html)
+- [Privacy policy](https://themansigoel.github.io/traffic-rescue-web/privacy.html)
+- [Contact](https://themansigoel.github.io/traffic-rescue-web/contact.html)
 
-Two free hints per level; optional rewarded ads for additional hints. Interstitials may appear after every third completion. No website ratings, download totals or acquisition claims are supplied. The site is local-only until explicitly published.
+Two free hints per level. Free players can watch a rewarded ad for an extra hint; interstitials may appear after every third completed level. Lifetime Pro removes both ad formats; extra Pro hints cost 50 earned coins. Local progress supports optional Sync and Restore through private CloudKit storage. Firebase Analytics is automatically enabled; advertising consent is handled separately. No ratings, download totals or ranking guarantees are claimed.
