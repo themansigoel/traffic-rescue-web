@@ -4,9 +4,9 @@ Local static website for Traffic Rescue. No framework, package installation, tra
 
 Pages: index.html, support.html, privacy.html, contact.html and 404.html. App artwork is copied from the app repository; source provenance remains in that project. Site assets use system fonts and run without third-party font requests.
 
-## Local-only and publication
+## Publication
 
-The user requested local-only creation. Git push is source synchronization, not deployment. No GitHub Pages activation, Site registration or public App Store URLs are created. site-config.json records no live base URL. Before publishing, run `python3 configure_public_url.py https://YOUR-PUBLIC-BASE/` to emit canonical URLs, OG URLs/image, sitemap and robots, then verify the deployed support/privacy pages before entering them in App Store Connect. Do not use localhost or a proposed URL in App Store metadata. robots.txt is effective only at a host root; GitHub project sites must also check the account-root robots policy.
+GitHub Pages is live at https://themansigoel.github.io/traffic-rescue-web/. Apple public metadata verified 3 November 2026 confirms Car Puzzle - Traffic Rescue, App Store ID6821971704, version1.0. The homepage download button links to the official listing. Privacy/support/contact URLs and FormSubmit endpoint remain unchanged.
 
 ## Contact
 
@@ -21,3 +21,6 @@ Run `python3 verify_site.py` for local link/image checks, JSON-LD parsing, headi
 ## Published status update
 
 GitHub Pages was verified live on 12 October 2026 at https://themansigoel.github.io/traffic-rescue-web/. Support, privacy and contact pages returned HTTP 200. Canonical, OG and sitemap metadata now use the verified base URL. Earlier local-only notes describe initial creation. FormSubmit inbox activation/delivery remains unverified.
+
+## Release correction — 3 November 2026
+Removed stale waiting-for-review/pre-release text from public pages, llms.txt, configuration and agent guidance; added verified App Store download CTA and structured-data download URL/version. Root app-ads.txt is already exact and publicly accessible; this content correction is not evidence that AdMob verification is resolved.
